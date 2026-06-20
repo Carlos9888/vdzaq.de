@@ -1,0 +1,10 @@
+/ https://vt.tokopedia.com/t/ZS9jjovtD4XvQ-HFj6T/ 302
+/d/* https://vt.tokopedia.com/t/ZS9jC3996jxxQ-nmQPr/ 302
+/e/* https://vt.tokopedia.com/t/ZS9jCTR6WMa5q-Q3HSX/ 302
+/f/* https://vt.tokopedia.com/t/ZS9jjoX8nWLdW-CEnDV/ 302
+/s/* https://vt.tokopedia.com/t/ZS9jjogfvPcgF-OKShC/ 302
+# Force HTTP to HTTPS
+http://vdqab.de/* https://vdqab.de/:splat 301!
+
+# Optional: Redirect www to non-www
+www.vdqab.de/* https://vdqab.de/:splat 301!
