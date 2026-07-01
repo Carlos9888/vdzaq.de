@@ -4,7 +4,7 @@
 /f/* https://vt.tokopedia.com/t/ZS9jjoX8nWLdW-CEnDV/ 302
 /s/* https://vt.tokopedia.com/t/ZS9jjogfvPcgF-OKShC/ 302
 # Force HTTP to HTTPS
-http://vdqab.de/* https://vdqab.de/:splat 301!
+http://vdzaq.de/* https://vdzaq.de/:splat 301!
 
 # Optional: Redirect www to non-www
-www.vdqab.de/* https://vdqab.de/:splat 301!
+www.vdzaq.de/* https://vdzaq.de/:splat 301!
